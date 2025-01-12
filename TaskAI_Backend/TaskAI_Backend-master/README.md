@@ -1,4 +1,4 @@
-# TaskAI Backend
+# TaskAI Backend WITH .NET ASPIRE
 
 A modern .NET 8 backend application for task and note management with AI assistance capabilities.
 
