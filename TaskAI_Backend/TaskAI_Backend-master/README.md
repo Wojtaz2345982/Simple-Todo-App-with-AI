@@ -48,12 +48,10 @@ A modern .NET 8 backend application for task and note management with AI assista
 3. Configure your user secrets or environment variables:
    ```json
    {
-     "ConnectionStrings": {
-       "tasksdb": "your_connection_string"
-     },
-     "OpenAI": {
-       "ApiKey": "your_openai_api_key"
-     }
+     "JWTSecretKey" : "JWT Secret for example from Supabase Auth",
+     "OPENAI_API_KEY" : "Your OpenAI API key",
+     "SupabaseUrl" : "Url to your Supabase project",
+     "SupabaseKey" : "Public key to your Supabase project"
    }
    ```
 
