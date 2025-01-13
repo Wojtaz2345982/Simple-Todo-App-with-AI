@@ -4,6 +4,9 @@ AI Task Manager acts as a personal assistant to help users organize tasks and pr
 
 This project is an ideal starting point for anyone learning full-stack development, integrating multiple modern technologies into a functional product. 🚀
 
+![image](https://github.com/user-attachments/assets/62f03ca3-f582-42f9-a13c-b7b9f4fddbc0)
+
+
 🔑 Features
 ✅ Authentication & Authorization
 Seamless user registration and login system powered by Supabase.
