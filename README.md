@@ -10,6 +10,12 @@ This project is an ideal starting point for anyone learning full-stack developme
 ![image](https://github.com/user-attachments/assets/c27e80be-d8ff-4db3-8dcd-f63348eee65d)
 
 
+![image](https://github.com/user-attachments/assets/fbb38186-446f-4490-acfd-dbb96cfa8473)
+
+
+![image](https://github.com/user-attachments/assets/dec85fc5-c464-4d35-b22c-fb39dce83c78)
+
+
 
 🔑 Features
 ✅ Authentication & Authorization
