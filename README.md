@@ -7,6 +7,10 @@ This project is an ideal starting point for anyone learning full-stack developme
 ![image](https://github.com/user-attachments/assets/62f03ca3-f582-42f9-a13c-b7b9f4fddbc0)
 
 
+![image](https://github.com/user-attachments/assets/c27e80be-d8ff-4db3-8dcd-f63348eee65d)
+
+
+
 🔑 Features
 ✅ Authentication & Authorization
 Seamless user registration and login system powered by Supabase.
