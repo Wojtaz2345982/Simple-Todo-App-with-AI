@@ -1,6 +1,7 @@
 # TaskAI 1.0
 
-# Builded with Lovable.dev
+# Builded with     ![image](https://github.com/user-attachments/assets/f9e4f827-f9d5-46da-8215-4e80326604d2)
+
 
 A modern web application built with React, TypeScript, and Vite, featuring a beautiful UI powered by Shadcn UI components and Tailwind CSS.
 
